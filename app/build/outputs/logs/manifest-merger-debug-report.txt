@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fdbedc726327ab6b5c252531bcb1b896/design-24.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/3cc8f22328a35fd2a781bf7aecfb995a/play-services-vision-9.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/ee2a49aeb542c924c4ca72a5135723b2/support-v4-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/66be04e05ee3026d288915574ae9222b/support-fragment-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0d78d52bf441a71e4619cab55ddf92cd/support-core-utils-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/274e2eff85dec467253219cd2483b4b2/support-media-compat-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fcbee1a66bc2b6cc4d48ddfd86545985/recyclerview-v7-24.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0cfb6437339770c067cc6f4e792fde2b/support-core-ui-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6a50b388f318f14d883cf86fadb145e6/animated-vector-drawable-24.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/a1005648fd8a8f6effffdb46c7b7fce5/support-vector-drawable-24.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6587e7c7306665968102eaa99372b7e6/support-compat-24.2.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:3:5-66
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:10:22-64
+permission#android.permission.INTERNET
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:11:17-59
+application
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:13:5-43:19
+MERGED from [com.android.support:design:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fdbedc726327ab6b5c252531bcb1b896/design-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fdbedc726327ab6b5c252531bcb1b896/design-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/3cc8f22328a35fd2a781bf7aecfb995a/play-services-vision-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/3cc8f22328a35fd2a781bf7aecfb995a/play-services-vision-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/ee2a49aeb542c924c4ca72a5135723b2/support-v4-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/ee2a49aeb542c924c4ca72a5135723b2/support-v4-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/66be04e05ee3026d288915574ae9222b/support-fragment-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/66be04e05ee3026d288915574ae9222b/support-fragment-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0d78d52bf441a71e4619cab55ddf92cd/support-core-utils-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0d78d52bf441a71e4619cab55ddf92cd/support-core-utils-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/274e2eff85dec467253219cd2483b4b2/support-media-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/274e2eff85dec467253219cd2483b4b2/support-media-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0cfb6437339770c067cc6f4e792fde2b/support-core-ui-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0cfb6437339770c067cc6f4e792fde2b/support-core-ui-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6a50b388f318f14d883cf86fadb145e6/animated-vector-drawable-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6a50b388f318f14d883cf86fadb145e6/animated-vector-drawable-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/a1005648fd8a8f6effffdb46c7b7fce5/support-vector-drawable-24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/a1005648fd8a8f6effffdb46c7b7fce5/support-vector-drawable-24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6587e7c7306665968102eaa99372b7e6/support-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6587e7c7306665968102eaa99372b7e6/support-compat-24.2.0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:18:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:16:9-43
+	android:fullBackupContent
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:15:9-42
+	android:icon
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:20:9-47
+activity#com.google.android.gms.samples.vision.barcodereader.SubMachineActivity
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:21:9-65
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:21:19-53
+activity#com.google.android.gms.samples.vision.barcodereader.LineChooseActivity
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:22:19-53
+meta-data#com.google.android.gms.version
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:24:9-26:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:25:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:27:9-29:39
+	android:value
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:28:13-70
+activity#com.google.android.gms.samples.vision.barcodereader.MainActivity
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity
+ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:40:9-42:44
+	android:label
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:42:13-41
+	android:name
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:41:13-51
+uses-sdk
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fdbedc726327ab6b5c252531bcb1b896/design-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fdbedc726327ab6b5c252531bcb1b896/design-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/3cc8f22328a35fd2a781bf7aecfb995a/play-services-vision-9.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/3cc8f22328a35fd2a781bf7aecfb995a/play-services-vision-9.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/ee2a49aeb542c924c4ca72a5135723b2/support-v4-24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/ee2a49aeb542c924c4ca72a5135723b2/support-v4-24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/66be04e05ee3026d288915574ae9222b/support-fragment-24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/66be04e05ee3026d288915574ae9222b/support-fragment-24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0d78d52bf441a71e4619cab55ddf92cd/support-core-utils-24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0d78d52bf441a71e4619cab55ddf92cd/support-core-utils-24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/274e2eff85dec467253219cd2483b4b2/support-media-compat-24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/274e2eff85dec467253219cd2483b4b2/support-media-compat-24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fcbee1a66bc2b6cc4d48ddfd86545985/recyclerview-v7-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/fcbee1a66bc2b6cc4d48ddfd86545985/recyclerview-v7-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0cfb6437339770c067cc6f4e792fde2b/support-core-ui-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/0cfb6437339770c067cc6f4e792fde2b/support-core-ui-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6a50b388f318f14d883cf86fadb145e6/animated-vector-drawable-24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6a50b388f318f14d883cf86fadb145e6/animated-vector-drawable-24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/a1005648fd8a8f6effffdb46c7b7fce5/support-vector-drawable-24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/a1005648fd8a8f6effffdb46c7b7fce5/support-vector-drawable-24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6587e7c7306665968102eaa99372b7e6/support-compat-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/6587e7c7306665968102eaa99372b7e6/support-compat-24.2.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/cb691a29049106a952d771adbb707eb2/appcompat-v7-24.2.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:20:19-85

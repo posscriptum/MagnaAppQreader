@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout_barcode_capture.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout/barcode_capture.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_no.png.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/drawable-hdpi/icon_no.png"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout_activity_line_choose.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout/activity_line_choose.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout-v17_activity_main.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout-v17/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout-land_barcode_capture.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout-land/barcode_capture.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_yes.png.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/drawable-hdpi/icon_yes.png"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout-land-v17_activity_main.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout-land-v17/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout_activity_sub_machine.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout/activity_sub_machine.xml"
+    },
+    {
+        "merged": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/res/layout-land/activity_main.xml"
+    }
+]

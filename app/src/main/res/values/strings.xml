@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Доступ к камере нужен для определения баркода</string>
+    <string name="no_camera_permission">Приложение не может запустится потому, что нет разрешения доступа к камере.  Приложение будет закрыто.</string>
+    <string name="low_storage_error">Невозможно загрузить сервис определения баркода из-за недостатка памяти на устройстве</string>
+    <string name="title_activity_main">Баркод ридер</string>
+    <string name="barcode_header">Выберете себя из списка</string>
+    <string name="read_barcode">Баркод ридер</string>
+    <string name="auto_focus">Автофокусировка</string>
+    <string name="use_flash">Подсветить вспышкой</string>
+    <string name="barcode_success">Баркод прочитан успешно</string>
+    <string name="barcode_failure">Баркод не определен</string>
+    <string name="barcode_error">"Ощибка чтения баркода: %1$s"</string>
+    <string name="Emploeeys">Сотрудники:</string>
+    <string name="empty">Нечего отображать</string>
+    <string name="Lines">"Линии: "</string>
+    <string name="text_header_lines">Выберете линию:</string>
+    <string name="text_header_submachines">Выберете машину</string>
+    <string name="button_finish">Вернуться в начало</string>
+    <string name="button_insert_data_to_db">Записать точку проверки в базу</string>
+
+    // Employees array
+    <string-array name="Employees">
+        <item>98172 Румянцев Дмитрий Сергеевич</item>
+        <item>98127 Яковлев Игорь Михайлович</item>
+        <item>23598 Иванов Иван Иванович</item>
+        <item>54906 Петров Петр Петрович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+        <item>98475 Сидоров Сидор Сидорович</item>
+    </string-array>
+
+    // Line's checkpoints array
+    <string-array name="Lines">
+        <item>TD1000@Пресс 1. Точка проверки 1.@Без комментариев</item>
+        <item>TD1000@Пресс 1. Точка проверки 2.@Без комментариев</item>
+        <item>TD1000@Пресс 2. Точка проверки 1@Без комментариев</item>
+        <item>TD1000@Пресс 3. Точка проверки 1.@Без комментариев</item>
+        <item>TD1000@Пресс 3. Точка проверки 2.@Без комментариев</item>
+        <item>TD1000@Пресс 4. Точка проверки 1.@Без комментариев</item>
+        <item>TD800@Пресс 1@Без комментариев</item>
+        <item>TD800@Пресс 2@Без комментариев</item>
+        <item>TD800@Пресс 3@Без комментариев</item>
+        <item>TD800@Пресс 4@Без комментариев</item>
+    </string-array>
+
+    //Tags array
+    <string-array name="tags">
+        <item>teg 1</item>
+        <item>teg 2</item>
+        <item>teg 3</item>
+        <item>Долить масло</item>
+        <item>Все Ок</item>
+    </string-array>
+
+    //Shift name array
+    <string-array name="shifts">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>

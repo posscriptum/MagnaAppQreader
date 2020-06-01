@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.android.gms.samples.vision.barcodereader"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="9"
+9-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml
+11
+12    <uses-feature android:name="android.hardware.camera" />
+12-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:6:5-60
+12-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:6:19-57
+13
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:8:5-65
+14-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:8:22-62
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:10:5-67
+15-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:10:22-64
+16
+17    <permission android:name="android.permission.INTERNET" />
+17-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:11:5-62
+17-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:11:17-59
+18
+19    <application
+19-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:13:5-43:19
+20        android:allowBackup="true"
+20-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:14:9-35
+21        android:debuggable="true"
+22        android:fullBackupContent="false"
+22-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:15:9-42
+23        android:hardwareAccelerated="true"
+23-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:16:9-43
+24        android:icon="@drawable/icon"
+24-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:17:9-38
+25        android:label="MultiTrackerApp"
+25-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:18:9-40
+26        android:supportsRtl="true"
+26-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:19:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.AppCompat" >
+28-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:20:9-47
+29        <activity android:name="com.google.android.gms.samples.vision.barcodereader.SubMachineActivity" />
+29-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:21:9-65
+29-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:21:19-53
+30        <activity android:name="com.google.android.gms.samples.vision.barcodereader.LineChooseActivity" />
+30-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:22:9-56
+30-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:22:19-53
+31
+32        <meta-data
+32-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:24:9-26:69
+33            android:name="com.google.android.gms.version"
+33-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:25:13-58
+34            android:value="@integer/google_play_services_version" />
+34-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:26:13-66
+35        <meta-data
+35-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:27:9-29:39
+36            android:name="com.google.android.gms.vision.DEPENDENCIES"
+36-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:28:13-70
+37            android:value="barcode" />
+37-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:29:13-36
+38
+39        <activity
+39-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:31:9-39:20
+40            android:name="com.google.android.gms.samples.vision.barcodereader.MainActivity"
+40-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:32:13-41
+41            android:label="@string/title_activity_main" >
+41-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:33:13-56
+42            <intent-filter>
+42-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:34:13-38:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:35:17-69
+43-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:35:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:37:17-77
+45-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:37:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:40:9-42:44
+49            android:name="com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity"
+49-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:41:13-51
+50            android:label="Read Barcode" />
+50-->/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/src/main/AndroidManifest.xml:42:13-41
+51        <activity
+51-->[com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:20:19-85
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:9.4.0] /Users/dmitriyrumiantsev/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+55    </application>
+56
+57</manifest>

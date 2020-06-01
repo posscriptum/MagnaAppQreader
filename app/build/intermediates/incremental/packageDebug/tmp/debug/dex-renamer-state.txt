@@ -1,0 +1,4 @@
+#Mon Jun 01 18:09:52 MSK 2020
+base.0=/Users/dmitriyrumiantsev/AndroidStudioProjects/MagnaAppQreader/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
